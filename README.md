@@ -161,5 +161,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/[tu-usuario]/[tu-usuario]/blob/main/assets/coding.gif" width="400">
+  <img src="https://github.com/Oscarpeg/Oscarpeg/blob/main/assets/coding.gif" width="400">
 </p>
