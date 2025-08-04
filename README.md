@@ -154,3 +154,12 @@
   &emsp;
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
 </p>
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+[Tu+Nombre]!;Machine+Learning+Engineer;Python+Developer;Data+Enthusiast&center=true&size=30">
+</h1>
+
+<p align="center">
+  <img src="https://github.com/[tu-usuario]/[tu-usuario]/blob/main/assets/coding.gif" width="400">
+</p>
