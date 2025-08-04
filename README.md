@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+[Oscarpeg]!;Machine+Learning+Engineer;Python+Developer;Data+Enthusiast&center=true&size=30">
+</h1>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -156,10 +160,5 @@
 </p>
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+[Tu+Nombre]!;Machine+Learning+Engineer;Python+Developer;Data+Enthusiast&center=true&size=30">
-</h1>
 
-<p align="center">
-  <img src="https://github.com/Oscarpeg/Oscarpeg/blob/main/assets/coding.gif" width="400">
-</p>
+
