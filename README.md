@@ -22,7 +22,10 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
 </p>
-### Machine learning & IA
+
+
+###  Programming languages
+
 <p align="left"> 
   &emsp; 
   <a href="https://scikit-learn.org/" target="_blank">
